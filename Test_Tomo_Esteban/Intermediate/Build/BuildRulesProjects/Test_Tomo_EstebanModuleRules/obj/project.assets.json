@@ -8545,11 +8545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esteban.lafargue\\Documents\\Unreal Projects\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\Test_Tomo_EstebanModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\esteban.lafargue\\Desktop\\UE_Tomo_Test\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\Test_Tomo_EstebanModuleRules.csproj",
       "projectName": "Test_Tomo_EstebanModuleRules",
-      "projectPath": "C:\\Users\\esteban.lafargue\\Documents\\Unreal Projects\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\Test_Tomo_EstebanModuleRules.csproj",
+      "projectPath": "C:\\Users\\esteban.lafargue\\Desktop\\UE_Tomo_Test\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\Test_Tomo_EstebanModuleRules.csproj",
       "packagesPath": "C:\\Users\\esteban.lafargue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esteban.lafargue\\Documents\\Unreal Projects\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\esteban.lafargue\\Desktop\\UE_Tomo_Test\\Test_Tomo_Esteban\\Intermediate\\Build\\BuildRulesProjects\\Test_Tomo_EstebanModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esteban.lafargue\\AppData\\Roaming\\NuGet\\NuGet.Config",

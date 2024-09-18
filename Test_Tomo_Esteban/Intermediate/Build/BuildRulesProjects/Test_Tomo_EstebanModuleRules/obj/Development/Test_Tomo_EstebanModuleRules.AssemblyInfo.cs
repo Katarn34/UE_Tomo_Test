@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test_Tomo_EstebanModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6a6554417c10f87e8d8ac00a894d29bd0790cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test_Tomo_EstebanModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test_Tomo_EstebanModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

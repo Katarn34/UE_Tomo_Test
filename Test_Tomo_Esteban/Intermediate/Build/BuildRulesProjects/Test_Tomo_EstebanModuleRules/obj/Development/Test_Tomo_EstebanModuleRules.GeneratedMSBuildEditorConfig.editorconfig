@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test_Tomo_EstebanModuleRules
-build_property.ProjectDir = C:\Users\esteban.lafargue\Documents\Unreal Projects\Test_Tomo_Esteban\Intermediate\Build\BuildRulesProjects\Test_Tomo_EstebanModuleRules\
+build_property.ProjectDir = C:\Users\esteban.lafargue\Desktop\UE_Tomo_Test\Test_Tomo_Esteban\Intermediate\Build\BuildRulesProjects\Test_Tomo_EstebanModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

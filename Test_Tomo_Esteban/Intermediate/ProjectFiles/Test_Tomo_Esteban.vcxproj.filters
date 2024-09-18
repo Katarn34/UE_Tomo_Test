@@ -45,6 +45,18 @@
     <ClInclude Include="..\..\Source\Test_Tomo_Esteban\BP_PlayerController.h">
       <Filter>Source\Test_Tomo_Esteban</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Test_Tomo_Esteban\MyDefaultCameraShakeBase.cpp">
+      <Filter>Source\Test_Tomo_Esteban</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test_Tomo_Esteban\MyDefaultCameraShakeBase.h">
+      <Filter>Source\Test_Tomo_Esteban</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test_Tomo_Esteban\Projectile_Cpp.cpp">
+      <Filter>Source\Test_Tomo_Esteban</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test_Tomo_Esteban\Projectile_Cpp.h">
+      <Filter>Source\Test_Tomo_Esteban</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Test_Tomo_Esteban\Test_Tomo_Esteban.Build.cs">
       <Filter>Source\Test_Tomo_Esteban</Filter>
     </None>

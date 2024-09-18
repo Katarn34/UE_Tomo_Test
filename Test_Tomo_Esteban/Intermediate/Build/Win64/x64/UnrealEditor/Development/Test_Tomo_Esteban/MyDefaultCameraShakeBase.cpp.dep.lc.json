@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\esteban.lafargue\\desktop\\ue_tomo_test\\test_tomo_esteban\\source\\test_tomo_esteban\\mydefaultcamerashakebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\esteban.lafargue\\desktop\\ue_tomo_test\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\test_tomo_estebaneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\esteban.lafargue\\desktop\\ue_tomo_test\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test_tomo_esteban\\definitions.test_tomo_esteban.h",
+            "c:\\users\\esteban.lafargue\\desktop\\ue_tomo_test\\test_tomo_esteban\\source\\test_tomo_esteban\\mydefaultcamerashakebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\cameras\\gameplaycameras\\source\\gameplaycameras\\public\\shakes\\defaultcamerashakebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\cameras\\gameplaycameras\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaycameras\\uht\\defaultcamerashakebase.generated.h",
+            "c:\\users\\esteban.lafargue\\desktop\\ue_tomo_test\\test_tomo_esteban\\intermediate\\build\\win64\\unrealeditor\\inc\\test_tomo_esteban\\uht\\mydefaultcamerashakebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
