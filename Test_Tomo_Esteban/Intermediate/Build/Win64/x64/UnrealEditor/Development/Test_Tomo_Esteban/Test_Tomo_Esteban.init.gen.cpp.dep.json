@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\unrealeditor\\inc\\test_tomo_esteban\\uht\\test_tomo_esteban.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\test_tomo_estebaneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test_tomo_esteban\\definitions.test_tomo_esteban.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

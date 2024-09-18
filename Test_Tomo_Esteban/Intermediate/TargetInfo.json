@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Test_Tomo_Esteban",
+			"Path": "..\\Source\\Test_Tomo_Esteban.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Test_Tomo_EstebanEditor",
+			"Path": "..\\Source\\Test_Tomo_EstebanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

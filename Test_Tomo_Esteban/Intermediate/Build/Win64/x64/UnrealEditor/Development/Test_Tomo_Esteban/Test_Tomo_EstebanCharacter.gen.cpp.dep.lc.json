@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\unrealeditor\\inc\\test_tomo_esteban\\uht\\test_tomo_estebancharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\test_tomo_estebaneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\test_tomo_esteban\\definitions.test_tomo_esteban.h",
+            "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\source\\test_tomo_esteban\\test_tomo_estebancharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\esteban.lafargue\\documents\\unreal projects\\test_tomo_esteban\\intermediate\\build\\win64\\unrealeditor\\inc\\test_tomo_esteban\\uht\\test_tomo_estebancharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
